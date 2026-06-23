@@ -1,0 +1,541 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2026-06-22T22:55:25+01:00"
+    FORMAT="3.0" VERSION="3.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR
+            MEDIA_URL="file:///C:/Users/SELBS/Documents/AE/EMPLOI/PROJETS/corpus/processed/ESLO2_ITI_1073.wav"
+            MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="../processed/ESLO2_ITI_1073.wav"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:00542afd-3592-4ead-81d9-dd0b6230187c</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">64</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="0"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="5600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="5600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="7000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="7000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="8100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="8100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="12600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="12600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="13200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="13200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="14200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="14200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="15200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="15200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="17200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="17200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="18200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="18200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="18900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="18900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="19600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="19600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="21900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="21900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="22400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="22400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="23000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="23000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="23694"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="23800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="24798"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="24800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="26200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="26200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="30566"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="30600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="30600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="30771"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="33000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="33000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="34500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="34500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="36800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="36800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="37600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="37600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="40200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts49" TIME_VALUE="40200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts50" TIME_VALUE="41000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts51" TIME_VALUE="44000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts52" TIME_VALUE="45600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts53" TIME_VALUE="45600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts54" TIME_VALUE="46500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts55" TIME_VALUE="46500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts56" TIME_VALUE="49200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts57" TIME_VALUE="49200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts58" TIME_VALUE="50000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts59" TIME_VALUE="50000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts60" TIME_VALUE="51500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts61" TIME_VALUE="51500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts62" TIME_VALUE="54900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts63" TIME_VALUE="54900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts64" TIME_VALUE="58300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts65" TIME_VALUE="58300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts66" TIME_VALUE="59700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts67" TIME_VALUE="59700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts68" TIME_VALUE="64800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts69" TIME_VALUE="64800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts70" TIME_VALUE="67000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts71" TIME_VALUE="67000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts72" TIME_VALUE="69200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts73" TIME_VALUE="69200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts74" TIME_VALUE="71200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts75" TIME_VALUE="71200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts76" TIME_VALUE="73000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts77" TIME_VALUE="73000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts78" TIME_VALUE="75300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts79" TIME_VALUE="77100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts80" TIME_VALUE="79700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts81" TIME_VALUE="79700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts82" TIME_VALUE="81900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts83" TIME_VALUE="81900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts84" TIME_VALUE="83400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts85" TIME_VALUE="83400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts86" TIME_VALUE="84400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts87" TIME_VALUE="84400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts88" TIME_VALUE="85100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts89" TIME_VALUE="85100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts90" TIME_VALUE="89800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts91" TIME_VALUE="89800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts92" TIME_VALUE="91900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts93" TIME_VALUE="91900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts94" TIME_VALUE="94600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts95" TIME_VALUE="94600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts96" TIME_VALUE="98900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts97" TIME_VALUE="98900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts98" TIME_VALUE="99547"/>
+        <TIME_SLOT TIME_SLOT_ID="ts99" TIME_VALUE="99775"/>
+        <TIME_SLOT TIME_SLOT_ID="ts100" TIME_VALUE="100300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts101" TIME_VALUE="100300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts102" TIME_VALUE="102300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts103" TIME_VALUE="102300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts104" TIME_VALUE="104100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts105" TIME_VALUE="104100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts106" TIME_VALUE="104900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts107" TIME_VALUE="104900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts108" TIME_VALUE="109300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts109" TIME_VALUE="109300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts110" TIME_VALUE="110900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts111" TIME_VALUE="110900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts112" TIME_VALUE="111707"/>
+        <TIME_SLOT TIME_SLOT_ID="ts113" TIME_VALUE="111935"/>
+        <TIME_SLOT TIME_SLOT_ID="ts114" TIME_VALUE="115300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts115" TIME_VALUE="115300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts116" TIME_VALUE="116300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts117" TIME_VALUE="116300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts118" TIME_VALUE="118800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts119" TIME_VALUE="118800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts120" TIME_VALUE="119800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts121" TIME_VALUE="119800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts122" TIME_VALUE="120300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts123" TIME_VALUE="120300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts124" TIME_VALUE="120800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts125" TIME_VALUE="120800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts126" TIME_VALUE="122100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts127" TIME_VALUE="122100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts128" TIME_VALUE="122600"/>
+    </TIME_ORDER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="Interviewer">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1"
+                TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE>Bonjour monsieur, excusez-moi de vous déranger, est-ce que vous pourriez m'indiquer comment est-ce qu'on va à la mairie d'Orléans, s'il vous plaît ?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2"
+                TIME_SLOT_REF1="ts4" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE>On est en train se tromper ?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3"
+                TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>Oui, du tout ! Alors, vous connaissez un peu la cathedrale dans le nord ?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4"
+                TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE>Oui !</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5"
+                TIME_SLOT_REF1="ts12" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE>C'est le plus grand monument, c'est ça ?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6"
+                TIME_SLOT_REF1="ts16" TIME_SLOT_REF2="ts18">
+                <ANNOTATION_VALUE>À droite, à gauche ?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7"
+                TIME_SLOT_REF1="ts20" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE>À gauche ?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8"
+                TIME_SLOT_REF1="ts24" TIME_SLOT_REF2="ts26">
+                <ANNOTATION_VALUE>D'accord !</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9"
+                TIME_SLOT_REF1="ts28" TIME_SLOT_REF2="ts31">
+                <ANNOTATION_VALUE>C'est là, la mairie? D'accord !</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10"
+                TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts34">
+                <ANNOTATION_VALUE>Est-ce que je peux vous garder encore deux petites minutes ?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11"
+                TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts37">
+                <ANNOTATION_VALUE>En fait, on est étudiantes en sciences du langage à Orléans, et on fait un portrait sonore de la ville d'Orléans.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12"
+                TIME_SLOT_REF1="ts38" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE>Faut répondre à 2-3 petites questions, ça prend vraiment pas beaucoup de temps.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13"
+                TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts42">
+                <ANNOTATION_VALUE>Allez, désolé, désolé, t'façon, j'ai un peu de temps !</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14"
+                TIME_SLOT_REF1="ts43" TIME_SLOT_REF2="ts44">
+                <ANNOTATION_VALUE>Parfait ! Par contre, c'est enregistré ?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15"
+                TIME_SLOT_REF1="ts46" TIME_SLOT_REF2="ts48">
+                <ANNOTATION_VALUE>C'est plus... Ah mais bon, alors, vous savez, mais moi ici, tout à fait !</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16"
+                TIME_SLOT_REF1="ts51" TIME_SLOT_REF2="ts52">
+                <ANNOTATION_VALUE>Alors, quel quartier habitez-vous ?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17"
+                TIME_SLOT_REF1="ts54" TIME_SLOT_REF2="ts56">
+                <ANNOTATION_VALUE>Région de Vigneux, d'accord ! Est-ce que vous aimez ce quartier, cette rue ?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18"
+                TIME_SLOT_REF1="ts58" TIME_SLOT_REF2="ts60">
+                <ANNOTATION_VALUE>Pourri ? Pourquoi ?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19"
+                TIME_SLOT_REF1="ts64" TIME_SLOT_REF2="ts66">
+                <ANNOTATION_VALUE>D'accord !</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20"
+                TIME_SLOT_REF1="ts67" TIME_SLOT_REF2="ts68">
+                <ANNOTATION_VALUE>Si vous deviez parler d'Orléans à des amis qui ne connaissent pas la ville, vous la décriverez aux connards ?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21"
+                TIME_SLOT_REF1="ts74" TIME_SLOT_REF2="ts76">
+                <ANNOTATION_VALUE>D'accord !</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22"
+                TIME_SLOT_REF1="ts77" TIME_SLOT_REF2="ts78">
+                <ANNOTATION_VALUE>Quel est votre lieux préféré dans la ville ?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a23"
+                TIME_SLOT_REF1="ts82" TIME_SLOT_REF2="ts84">
+                <ANNOTATION_VALUE>Ah, mais vous n'avez pas de vieux préférés dans Orléans ?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a24"
+                TIME_SLOT_REF1="ts86" TIME_SLOT_REF2="ts88">
+                <ANNOTATION_VALUE>Très bien !</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a25"
+                TIME_SLOT_REF1="ts89" TIME_SLOT_REF2="ts90">
+                <ANNOTATION_VALUE>Et si, en France... si vous deviez prendre une photo d'Orléans, vous la prendriez où ?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a26"
+                TIME_SLOT_REF1="ts94" TIME_SLOT_REF2="ts96">
+                <ANNOTATION_VALUE>Y a pas un endroit qui vous plait plus qu'un autre? Ou un quartier, un lieu...</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a27"
+                TIME_SLOT_REF1="ts98" TIME_SLOT_REF2="ts99">
+                <ANNOTATION_VALUE>Du tout.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a28"
+                TIME_SLOT_REF1="ts100" TIME_SLOT_REF2="ts102">
+                <ANNOTATION_VALUE>Est-ce que je peux vous demander votre âge et votre profession, s'il vous plaît ?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a29"
+                TIME_SLOT_REF1="ts104" TIME_SLOT_REF2="ts106">
+                <ANNOTATION_VALUE>D'accord, très bien !</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a30"
+                TIME_SLOT_REF1="ts107" TIME_SLOT_REF2="ts108">
+                <ANNOTATION_VALUE>Enfin, je vais vous demander de me redire le trajet pour aller à la mairie et enregistré cette fois, s'il vous plaît !</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a31"
+                TIME_SLOT_REF1="ts112" TIME_SLOT_REF2="ts113">
+                <ANNOTATION_VALUE>Oui?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a32"
+                TIME_SLOT_REF1="ts114" TIME_SLOT_REF2="ts116">
+                <ANNOTATION_VALUE>D'accord, et c'est là !</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a33"
+                TIME_SLOT_REF1="ts118" TIME_SLOT_REF2="ts120">
+                <ANNOTATION_VALUE>D'accord, merci beaucoup !</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a34"
+                TIME_SLOT_REF1="ts122" TIME_SLOT_REF2="ts124">
+                <ANNOTATION_VALUE>Bonne journée, monsieur !</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a35"
+                TIME_SLOT_REF1="ts126" TIME_SLOT_REF2="ts128">
+                <ANNOTATION_VALUE>Au revoir !</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="Interviewé">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a36"
+                TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts5">
+                <ANNOTATION_VALUE>Oh là, c'est pas par là, vous êtes trompés là !</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a37"
+                TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts13">
+                <ANNOTATION_VALUE>Bah, c'est juste à côté !</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a38"
+                TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts17">
+                <ANNOTATION_VALUE>Voilà, exactement, c'est juste à côté, après vous...</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a39"
+                TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts21">
+                <ANNOTATION_VALUE>À gauche !</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a40"
+                TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts25">
+                <ANNOTATION_VALUE>À gauche, et vous y verrez des petites marches !</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a41"
+                TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts29">
+                <ANNOTATION_VALUE>C'est là, la mairie !</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a42"
+                TIME_SLOT_REF1="ts30" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE>Ah, vous allez pas vous tromper.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a43"
+                TIME_SLOT_REF1="ts36" TIME_SLOT_REF2="ts39">
+                <ANNOTATION_VALUE>D'accord.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a44"
+                TIME_SLOT_REF1="ts45" TIME_SLOT_REF2="ts47">
+                <ANNOTATION_VALUE>Ah bah, c'est pas grave !</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a45"
+                TIME_SLOT_REF1="ts49" TIME_SLOT_REF2="ts50">
+                <ANNOTATION_VALUE>Tant mieux.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a46"
+                TIME_SLOT_REF1="ts53" TIME_SLOT_REF2="ts55">
+                <ANNOTATION_VALUE>Région de Vigneux.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a47"
+                TIME_SLOT_REF1="ts57" TIME_SLOT_REF2="ts59">
+                <ANNOTATION_VALUE>Pourri !</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a48"
+                TIME_SLOT_REF1="ts61" TIME_SLOT_REF2="ts62">
+                <ANNOTATION_VALUE>Parce qu'ils disent que c'est un privé, mais bon, c'est une porcherie, quoi !</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a49"
+                TIME_SLOT_REF1="ts63" TIME_SLOT_REF2="ts65">
+                <ANNOTATION_VALUE>Les gens, ils te jettent tout par la fenêtre, on va passer les détails, mais bon, bref !</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a50"
+                TIME_SLOT_REF1="ts69" TIME_SLOT_REF2="ts70">
+                <ANNOTATION_VALUE>Bien, mais bon...heu...</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a51"
+                TIME_SLOT_REF1="ts71" TIME_SLOT_REF2="ts72">
+                <ANNOTATION_VALUE>Bien, mais ça dépend quel quartier, ça dépend...</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a52"
+                TIME_SLOT_REF1="ts73" TIME_SLOT_REF2="ts75">
+                <ANNOTATION_VALUE>Il y a des monuments à voir, ça, c'est sûr, mais bon, après...</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a53"
+                TIME_SLOT_REF1="ts79" TIME_SLOT_REF2="ts80">
+                <ANNOTATION_VALUE>Moi, ça fait 33 ans que j'habite là, à force !</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a54"
+                TIME_SLOT_REF1="ts81" TIME_SLOT_REF2="ts83">
+                <ANNOTATION_VALUE>Si je peux partir de là, honnêtement, je sortirais d'ici !</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a55"
+                TIME_SLOT_REF1="ts85" TIME_SLOT_REF2="ts87">
+                <ANNOTATION_VALUE>Exactement !</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a56"
+                TIME_SLOT_REF1="ts91" TIME_SLOT_REF2="ts92">
+                <ANNOTATION_VALUE>En France, la photo d'Orléans ?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a57"
+                TIME_SLOT_REF1="ts93" TIME_SLOT_REF2="ts95">
+                <ANNOTATION_VALUE>Non, ça, c'est une question piège. Je ne sais pas du tout !</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a58"
+                TIME_SLOT_REF1="ts97" TIME_SLOT_REF2="ts101">
+                <ANNOTATION_VALUE>Du tout! Non.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a59"
+                TIME_SLOT_REF1="ts103" TIME_SLOT_REF2="ts105">
+                <ANNOTATION_VALUE>23 ans et agent de sécurité.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a60"
+                TIME_SLOT_REF1="ts109" TIME_SLOT_REF2="ts110">
+                <ANNOTATION_VALUE>D'accord, alors...heu...</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a61"
+                TIME_SLOT_REF1="ts111" TIME_SLOT_REF2="ts115">
+                <ANNOTATION_VALUE>Calédrale d'Orléans, la première à gauche, parce que tu verras, il y a des escaliers...</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a62"
+                TIME_SLOT_REF1="ts117" TIME_SLOT_REF2="ts119">
+                <ANNOTATION_VALUE>Et pour le pire des cas, tu demanderas à des personnes !</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a63"
+                TIME_SLOT_REF1="ts121" TIME_SLOT_REF2="ts123">
+                <ANNOTATION_VALUE>Bon courage!</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a64"
+                TIME_SLOT_REF1="ts125" TIME_SLOT_REF2="ts127">
+                <ANNOTATION_VALUE>Au revoir, surtout, et puis merci !</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="imported-sep" TIME_ALIGNABLE="true"/>
+    <CONSTRAINT
+        DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT
+        DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT
+        DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>

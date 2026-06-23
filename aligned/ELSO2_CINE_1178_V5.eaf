@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2026-06-22T23:30:24+01:00"
+    FORMAT="3.0" VERSION="3.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR
+            MEDIA_URL="file:///C:/Users/SELBS/Documents/AE/EMPLOI/PROJETS/corpus/processed/ELSO2_CINE_1178_V5.wav"
+            MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="../processed/ELSO2_CINE_1178_V5.wav"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:71c543b8-9c0c-4744-9f47-6ff3eb471433</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">34</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="0"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="4240"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="4240"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="7600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="7600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="12200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="12200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="14478"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="14920"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="16840"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="16840"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="18500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="18500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="20160"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="20160"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="21000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="22840"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="23803"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="23859"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="24116"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="24135"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="25521"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="25521"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="29920"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="30240"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="33153"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="33240"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="33668"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="34270"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="36233"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="36240"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="41600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="41600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="46720"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="46720"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="51160"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="51160"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="55120"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="55120"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="63680"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="63680"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="69280"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="69280"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="74400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="74400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="79840"/>
+        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="79920"/>
+        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="84680"/>
+        <TIME_SLOT TIME_SLOT_ID="ts49" TIME_VALUE="84680"/>
+        <TIME_SLOT TIME_SLOT_ID="ts50" TIME_VALUE="90520"/>
+        <TIME_SLOT TIME_SLOT_ID="ts51" TIME_VALUE="90520"/>
+        <TIME_SLOT TIME_SLOT_ID="ts52" TIME_VALUE="94840"/>
+        <TIME_SLOT TIME_SLOT_ID="ts53" TIME_VALUE="94840"/>
+        <TIME_SLOT TIME_SLOT_ID="ts54" TIME_VALUE="101960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts55" TIME_VALUE="101960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts56" TIME_VALUE="106880"/>
+        <TIME_SLOT TIME_SLOT_ID="ts57" TIME_VALUE="106920"/>
+        <TIME_SLOT TIME_SLOT_ID="ts58" TIME_VALUE="109480"/>
+        <TIME_SLOT TIME_SLOT_ID="ts59" TIME_VALUE="109480"/>
+        <TIME_SLOT TIME_SLOT_ID="ts60" TIME_VALUE="111440"/>
+        <TIME_SLOT TIME_SLOT_ID="ts61" TIME_VALUE="111440"/>
+        <TIME_SLOT TIME_SLOT_ID="ts62" TIME_VALUE="115880"/>
+        <TIME_SLOT TIME_SLOT_ID="ts63" TIME_VALUE="115880"/>
+        <TIME_SLOT TIME_SLOT_ID="ts64" TIME_VALUE="121440"/>
+        <TIME_SLOT TIME_SLOT_ID="ts65" TIME_VALUE="121440"/>
+        <TIME_SLOT TIME_SLOT_ID="ts66" TIME_VALUE="125840"/>
+        <TIME_SLOT TIME_SLOT_ID="ts67" TIME_VALUE="125840"/>
+        <TIME_SLOT TIME_SLOT_ID="ts68" TIME_VALUE="127480"/>
+    </TIME_ORDER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="Interviewer">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1"
+                TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE>Excusez-moi madame, désolée de vous déranger, on est étudiante en fait à la</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2"
+                TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>fac, on fait une étude sur le cinéma. On voulait savoir si c'était possible de vous poser</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3"
+                TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE>quelques questions, ça prend vraiment, allez, deux petites minutes maximum.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4"
+                TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE>Quel film vous venez de voir ? D'accord. Est-ce que ça vous a plu ?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5"
+                TIME_SLOT_REF1="ts12" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE>C'est quoi qui vous a plu dans le film ?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6"
+                TIME_SLOT_REF1="ts16" TIME_SLOT_REF2="ts19">
+                <ANNOTATION_VALUE> Ouais. Le jeu des acteurs, le scénario. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7"
+                TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE>Vous avez déjà vu les précédents ?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8"
+                TIME_SLOT_REF1="ts26" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE>Ok.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9"
+                TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts30">
+                <ANNOTATION_VALUE>Que diriez-vous à quelqu'un pour le convaincre</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10"
+                TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE>justement d'aller voir ce film ?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11"
+                TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts34">
+                <ANNOTATION_VALUE>déjà un peu le fantastique. C'est pas non plus un film qui fait très très peur,</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12"
+                TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts36">
+                <ANNOTATION_VALUE>c'est pour les jeunes, plutôt pour les jeunes, pour les ados je dirais.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13"
+                TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts38">
+                <ANNOTATION_VALUE>C'est un film pour ados. Est-ce que vous pouvez me raconter dans les grandes lignes bien sûr</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14"
+                TIME_SLOT_REF1="ts39" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE>l'histoire du film ? C'est une histoire d'amour entre une humaine qu'ils appellent</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15"
+                TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts42">
+                <ANNOTATION_VALUE>et puis un vampire. C'est une grande ligne. Quand j'ai pas vu les deux du milieu,</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16"
+                TIME_SLOT_REF1="ts43" TIME_SLOT_REF2="ts44">
+                <ANNOTATION_VALUE>il me manque un morceau. Là, apparemment, ils se sont mariés, ils ont eu un bébé et puis</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17"
+                TIME_SLOT_REF1="ts45" TIME_SLOT_REF2="ts46">
+                <ANNOTATION_VALUE>c'est un peu un truc à l'odorose. Pour moi, c'est comme ces romancés, comme les histoires</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18"
+                TIME_SLOT_REF1="ts47" TIME_SLOT_REF2="ts48">
+                <ANNOTATION_VALUE>pour les petits. Ça va être une belle histoire d'amour qui finit bien.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19"
+                TIME_SLOT_REF1="ts49" TIME_SLOT_REF2="ts50">
+                <ANNOTATION_VALUE>D'accord. Est-ce que vous aimez bien ce cinéma ? Je viens pas souvent d'ailleurs. Je viens une fois</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20"
+                TIME_SLOT_REF1="ts51" TIME_SLOT_REF2="ts52">
+                <ANNOTATION_VALUE>depuis peut-être une dizaine d'années. Et en règle générale, vous aimez bien le cinéma ?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21"
+                TIME_SLOT_REF1="ts53" TIME_SLOT_REF2="ts54">
+                <ANNOTATION_VALUE>Oui. Vous y allez régulièrement ? On va à Saran en général. On est mieux par rapport aux horaires.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22"
+                TIME_SLOT_REF1="ts55" TIME_SLOT_REF2="ts56">
+                <ANNOTATION_VALUE>Oui, bien sûr. Alors je vais terminer avec trois petites questions. Je vais vous demander votre âge,</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a23"
+                TIME_SLOT_REF1="ts57" TIME_SLOT_REF2="ts58">
+                <ANNOTATION_VALUE>si vous voulez bien. J'ai 44 ans. D'accord. Votre profession ?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a24"
+                TIME_SLOT_REF1="ts59" TIME_SLOT_REF2="ts60">
+                <ANNOTATION_VALUE>Secrétaire. D'accord. Et vous habitez où ?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a25"
+                TIME_SLOT_REF1="ts61" TIME_SLOT_REF2="ts62">
+                <ANNOTATION_VALUE>A Cléris-Saint-André. D'accord. Alors en fait, cet enregistrement, il va nous servir parce qu'on</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a26"
+                TIME_SLOT_REF1="ts63" TIME_SLOT_REF2="ts64">
+                <ANNOTATION_VALUE>dresse le portrait sonore de la ville d'Orléans en 2011 et on voulait savoir si on pouvait utiliser</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a27"
+                TIME_SLOT_REF1="ts65" TIME_SLOT_REF2="ts66">
+                <ANNOTATION_VALUE>cet enregistrement. C'est totalement anonyme ? Oui. Oui ? Vous voulez bien ? D'accord. Bonne</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a28"
+                TIME_SLOT_REF1="ts67" TIME_SLOT_REF2="ts68">
+                <ANNOTATION_VALUE>journée. Merci beaucoup. Bonne soirée.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="Interviewée">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a29"
+                TIME_SLOT_REF1="ts8" TIME_SLOT_REF2="ts9">
+                <ANNOTATION_VALUE>Twilight.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a30"
+                TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts13">
+                <ANNOTATION_VALUE>Oui, c'était très bien. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a31"
+                TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts17">
+                <ANNOTATION_VALUE>Bah tout, j'ai bien aimé.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a32"
+                TIME_SLOT_REF1="ts18" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>Oui.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a33"
+                TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE>J'en ai vu un que le premier, alors c'est sûr. Il m'a manqué un morceau, mais non, je trouvais ça pas mal.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a34"
+                TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts27">
+                <ANNOTATION_VALUE>Mieux que le premier, ça bougeait plus. Voilà</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="imported-sep" TIME_ALIGNABLE="true"/>
+    <CONSTRAINT
+        DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT
+        DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT
+        DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>

@@ -1,0 +1,1 @@
+FOR %%f in (processed\*.wav) DO whisper "processed\%%~nf.wav" --language French --model medium --output_dir transcripts

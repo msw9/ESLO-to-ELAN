@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="eslo2_disc_1238_metadata_files/enregistrementMetadata_jSa3.xslt" type="text/xsl"?>
+<enregistrement>
+	<idmetier>ESLO2_DISC_1238</idmetier>
+	<sommaire>Discours du 8 mai 2012 aux Feêtes de Jeanne d’Arc à Orléans. Les deux anciens maires encore en vie (Jean-Louis Bernard et Jean-Pierre Sueur) et le maire actuel (Serge Grouard) étaient les invités des fêtes pour le 600e anniversaire.</sommaire>
+	<source>Bande magnétique 1238</source>
+	<spatial>France, Centre, Loiret, Orléans</spatial>
+	<tgn>7008337</tgn>
+	<point>east=1.909; north=47.901</point>
+	<creator>Laboratoire Ligérien de Linguistique</creator>
+	<publisher>Laboratoire Ligérien de Linguistique</publisher>
+	<depositor>Laboratoire Ligérien de Linguistique</depositor>
+	<researchers>
+		<researcher>Baude, Olivier</researcher>
+	</researchers>
+	<speakers>
+		<speaker>JPSueur</speaker>
+	</speakers>
+	<rights>Copyright (c) 2012 Université d'Orléans/LLL</rights>
+	<created>2012-05-08</created>
+	<extent>PT0H5M15S</extent>
+</enregistrement>

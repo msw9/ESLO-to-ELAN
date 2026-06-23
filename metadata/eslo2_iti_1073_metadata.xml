@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="eslo2_iti_1073_metadata_files/enregistrementMetadata_9kGY.xslt" type="text/xsl"?>
+<enregistrement>
+	<idmetier>ESLO2_ITI_1073</idmetier>
+	<sommaire>Comment aller à la mairie d'Orléans ? Itinéraire donné à partir de la Place Dunois</sommaire>
+	<source>Bande magnétique 1073</source>
+	<spatial>France, Centre, Loiret, Orléans</spatial>
+	<tgn>7008337</tgn>
+	<point>east=1.893; north=47.907</point>
+	<creator>Laboratoire Ligérien de Linguistique</creator>
+	<publisher>Laboratoire Ligérien de Linguistique</publisher>
+	<depositor>Laboratoire Ligérien de Linguistique</depositor>
+	<researchers>
+		<researcher>Baude, Olivier</researcher>
+	</researchers>
+	<speakers>
+		<speaker>JZ678</speaker>
+		<speaker>RJ928</speaker>
+		<speaker>SM268</speaker>
+	</speakers>
+	<rights>Copyright (c) 2012 Université d'Orléans/LLL</rights>
+	<created>2010-12-09</created>
+	<extent>PT0H2M2S</extent>
+</enregistrement>

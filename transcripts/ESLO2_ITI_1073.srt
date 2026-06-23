@@ -1,0 +1,240 @@
+1
+00:00:00,000 --> 00:00:05,600
+Bonjour monsieur, excusez-moi de vous déranger, est-ce que vous pourriez m'indiquer comment est-ce qu'on va à la mairie d'Orléans, s'il vous plaît ?
+
+2
+00:00:05,600 --> 00:00:07,000
+Oh là, c'est pas par là, vous êtes trompés là !
+
+3
+00:00:07,000 --> 00:00:08,100
+Oui, on attend que c'est trompé !
+
+4
+00:00:08,100 --> 00:00:12,600
+Oui, du tout ! Alors, vous connaissez un peu la cathedrale dernière ?
+
+5
+00:00:12,600 --> 00:00:13,200
+Oui !
+
+6
+00:00:13,200 --> 00:00:14,200
+Bah, c'est juste à côté !
+
+7
+00:00:14,200 --> 00:00:15,200
+C'est le plus grand des liens, c'est ça ?
+
+8
+00:00:15,200 --> 00:00:17,200
+Voilà, exactement, c'est juste à côté, après vous...
+
+9
+00:00:17,200 --> 00:00:18,200
+À droite, à gauche ?
+
+10
+00:00:18,200 --> 00:00:18,900
+À gauche !
+
+11
+00:00:18,900 --> 00:00:19,600
+À gauche ?
+
+12
+00:00:19,600 --> 00:00:21,900
+À gauche, et vous y verrez des petites marches !
+
+13
+00:00:21,900 --> 00:00:22,400
+D'accord !
+
+14
+00:00:22,400 --> 00:00:23,000
+Celle-là, la mairie !
+
+15
+00:00:23,000 --> 00:00:23,800
+Celle-là, la mairie, d'accord !
+
+16
+00:00:24,800 --> 00:00:26,200
+Est-ce que je peux vous dire encore des petites mythes ?
+
+17
+00:00:26,200 --> 00:00:30,600
+En fait, on est étudiante en sciences du langage à Orléans, et on fait un portrait sonore de la ville d'Orléans.
+
+18
+00:00:30,600 --> 00:00:33,000
+Faut répondre à 2-3 petites questions, ça prend vraiment pas beaucoup de temps.
+
+19
+00:00:33,000 --> 00:00:34,500
+Allez, désolé, désolé, t'façon, j'ai un peu de temps !
+
+20
+00:00:34,500 --> 00:00:36,800
+Parfait ! Par contre, c'est enregistré ?
+
+21
+00:00:36,800 --> 00:00:37,600
+Ah bah, c'est pas grave !
+
+22
+00:00:37,600 --> 00:00:40,200
+C'est plus... Ah mais bon, alors, vous savez, mais moi ici, tout à fait !
+
+23
+00:00:40,200 --> 00:00:41,000
+T'en veux ?
+
+24
+00:00:44,000 --> 00:00:45,600
+Alors, quel quartier habitez-vous ?
+
+25
+00:00:45,600 --> 00:00:46,500
+Région de Vignes !
+
+26
+00:00:46,500 --> 00:00:49,200
+Région de Vignes, d'accord ! Est-ce que vous aimez ce quartier, cette rue ?
+
+27
+00:00:49,200 --> 00:00:50,000
+Pourri !
+
+28
+00:00:50,000 --> 00:00:51,500
+Pourri ? Pourquoi ?
+
+29
+00:00:51,500 --> 00:00:54,900
+Parce qu'ils disent que c'est un privé, mais bon, c'est une porcherie, quoi !
+
+30
+00:00:54,900 --> 00:00:58,300
+Les gens, ils te jettent tout par la fenêtre, on va passer les détails, mais bon, bref !
+
+31
+00:00:58,300 --> 00:00:59,700
+D'accord !
+
+32
+00:00:59,700 --> 00:01:04,800
+Si vous deviez parler d'Orléans à des amis qui ne connaissent pas la ville, vous la décriverez aux connards ?
+
+33
+00:01:04,800 --> 00:01:07,000
+Bien, mais bon...
+
+34
+00:01:07,000 --> 00:01:09,200
+Bien, mais ça dépend lequel quartier, ça dépend...
+
+35
+00:01:09,200 --> 00:01:11,200
+Il y a des monuments à voir, ça, c'est sûr, mais bon, après...
+
+36
+00:01:11,200 --> 00:01:13,000
+D'accord !
+
+37
+00:01:13,000 --> 00:01:15,300
+Quel est votre vieux préféré dans la ville ?
+
+38
+00:01:17,100 --> 00:01:19,700
+Moi, ça fait 33 ans que j'habite là, à force !
+
+39
+00:01:19,700 --> 00:01:21,900
+Si je peux partir de là, honnêtement, je sortirais d'ici !
+
+40
+00:01:21,900 --> 00:01:23,400
+Ah, mais vous n'avez pas de vieux préférés dans Orléans ?
+
+41
+00:01:23,400 --> 00:01:24,400
+Exactement !
+
+42
+00:01:24,400 --> 00:01:25,100
+Très bien !
+
+43
+00:01:25,100 --> 00:01:29,800
+Et enfin, si vous deviez prendre une photo d'Orléans, vous la décriverez où ?
+
+44
+00:01:29,800 --> 00:01:31,900
+En France, la photo d'Orléans ?
+
+45
+00:01:31,900 --> 00:01:34,600
+Ah, ça, c'est une question que je ne sais pas du tout !
+
+46
+00:01:34,600 --> 00:01:38,900
+Par exemple, qui vous plait plus qu'un autre, ou un quartier, un lieu...
+
+47
+00:01:38,900 --> 00:01:40,300
+Du tout !
+
+48
+00:01:40,300 --> 00:01:42,300
+Est-ce que je peux vous donner votre âge et votre profession, s'il vous plaît ?
+
+49
+00:01:42,300 --> 00:01:44,100
+23 ans, pour les agents de sécurité !
+
+50
+00:01:44,100 --> 00:01:44,900
+D'accord, très bien !
+
+51
+00:01:44,900 --> 00:01:49,300
+Enfin, je vais vous demander de me redire le trajet pour aller à la merine et enregistrer cette fois, s'il vous plaît !
+
+52
+00:01:49,300 --> 00:01:50,900
+D'accord, alors...
+
+53
+00:01:50,900 --> 00:01:55,300
+Calédrale d'Orléans, la première à gauche, parce que tu verras, il y a des escaliers...
+
+54
+00:01:55,300 --> 00:01:56,300
+D'accord, et c'est là !
+
+55
+00:01:56,300 --> 00:01:58,800
+Et pour le pire des cas, tout le monde n'est pas assorti !
+
+56
+00:01:58,800 --> 00:01:59,800
+D'accord, merci beaucoup !
+
+57
+00:01:59,800 --> 00:02:00,300
+Au revoir, merci !
+
+58
+00:02:00,300 --> 00:02:00,800
+Bonne journée, monsieur !
+
+59
+00:02:00,800 --> 00:02:02,100
+Au revoir, surtout, et puis merci !
+
+60
+00:02:02,100 --> 00:02:02,600
+Au revoir !
+

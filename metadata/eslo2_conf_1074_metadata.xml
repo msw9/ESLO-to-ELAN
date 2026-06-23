@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="eslo2_conf_1074_metadata_files/enregistrementMetadata_8bCJ.xslt" type="text/xsl"?>
+<enregistrement>
+	<idmetier>ESLO2_CONF_1074</idmetier>
+	<source>Bande magnétique 1074</source>
+	<spatial>France, Centre, Loiret, Orléans</spatial>
+	<tgn>7008337</tgn>
+	<point>east=1.936; north=47.841</point>
+	<creator>Laboratoire Ligérien de Linguistique</creator>
+	<publisher>Laboratoire Ligérien de Linguistique</publisher>
+	<depositor>Laboratoire Ligérien de Linguistique</depositor>
+	<researchers>
+		<researcher>Baude, Olivier</researcher>
+	</researchers>
+	<speakers>
+		<speaker>CBruneau</speaker>
+	</speakers>
+	<rights>Copyright (c) 2012 Université d'Orléans/LLL</rights>
+	<created>2012-04-12</created>
+	<extent>PT0H5M47S</extent>
+</enregistrement>

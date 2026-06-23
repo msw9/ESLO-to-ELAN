@@ -1,0 +1,180 @@
+1
+00:00:00,000 --> 00:00:14,100
+Alors, bonjour à tous, tout d'abord, madame la vice-présidente conseil scientifique
+
+2
+00:00:14,100 --> 00:00:21,940
+représentant le président, vice-président au sévu président adjoint, également j'ai
+
+3
+00:00:21,940 --> 00:00:29,580
+vu la vice-présidente déléguée à la cohésion territoriale quelque part, voilà, donc la
+
+4
+00:00:29,580 --> 00:00:37,620
+convie de l'UFR à l'origine de ce projet et moi-même, directeur de cette faculté,
+
+5
+00:00:37,620 --> 00:00:43,860
+vous souhaitons tout d'abord la bienvenue à ces rencontres de la recherche en lettres,
+
+6
+00:00:43,860 --> 00:00:49,060
+langues et sciences humaines. Nous sommes très heureux de constater que vous avez répondu
+
+7
+00:00:49,060 --> 00:00:57,580
+assez nombreux à notre invitation. Alors ces rencontres trouvent leur origine dans la volonté
+
+8
+00:00:57,580 --> 00:01:05,140
+que nous avons aujourd'hui à l'université de mettre en avant toujours plus la recherche
+
+9
+00:01:05,140 --> 00:01:11,140
+en lien fort avec notre mission de formation professionnelle. Cette volonté se cristallise
+
+10
+00:01:11,140 --> 00:01:17,100
+plus particulièrement aujourd'hui à l'université d'Orléans autour des instituts thématiques
+
+11
+00:01:17,100 --> 00:01:23,820
+pluridisciplinaires qui sont donc des regroupements de laboratoires dont le but est de travailler
+
+12
+00:01:23,860 --> 00:01:32,860
+à une plus forte imbrication de la recherche et de nos formations disciplinaires. Nos laboratoires
+
+13
+00:01:32,860 --> 00:01:40,500
+sont une grande richesse, travaillent sur des thématiques très variées et nous pensons
+
+14
+00:01:40,500 --> 00:01:46,860
+qu'il est dommage de ne pas étendre le cercle des privilégiés qui ont accès à tout ce
+
+15
+00:01:46,860 --> 00:01:56,940
+savoir. Notre objectif par ces rencontres c'est de proposer à un public élargi ce qui d'habitude
+
+16
+00:01:56,940 --> 00:02:02,700
+reste plutôt réservé aux personnes directement concernées, c'est-à-dire les chercheurs et les
+
+17
+00:02:02,700 --> 00:02:10,260
+étudiants de la spécialité. C'est ainsi que nous avons dans cet amphi des enseignants, des enseignants,
+
+18
+00:02:10,260 --> 00:02:16,300
+chercheurs, des étudiants, des différentes composantes de notre université mais aussi des
+
+19
+00:02:16,300 --> 00:02:23,980
+personnels administratifs et un public non universitaire. Donc merci encore de notre présence
+
+20
+00:02:23,980 --> 00:02:32,180
+et sans plus attendre donc je vais laisser la place à nos intervenants. Alors donc peut-être une
+
+21
+00:02:32,180 --> 00:02:43,220
+petite précision avant, l'après-midi va durer un certain temps puisque nous avons prévu cinq
+
+22
+00:02:43,460 --> 00:02:50,900
+interventions. Vous avez la possibilité bien sûr d'aller prendre un café, des petits gâteaux pour
+
+23
+00:02:50,900 --> 00:02:58,540
+vous restaurer et puis vous sortir un petit peu. Voilà entre deux conférences on va dire. On ne
+
+24
+00:02:58,540 --> 00:03:08,420
+fera pas vraiment de pause complète qui risque de faire dériver le temps. Voilà mais n'hésitez pas
+
+25
+00:03:08,460 --> 00:03:13,740
+à aller vous servir quelque chose, c'est juste au dessus, vous avez sans doute vu déjà,
+
+26
+00:03:13,740 --> 00:03:25,420
+vous avez repéré l'endroit. Voilà alors nous allons commencer avec l'Iramat. Voilà le principe
+
+27
+00:03:25,420 --> 00:03:32,020
+c'est donc que chacun de nos laboratoires va présenter, l'un de ses enseignants chercheurs
+
+28
+00:03:32,020 --> 00:03:38,380
+va présenter une recherche, quelque chose qu'elle ait à travailler donc il va nous faire
+
+29
+00:03:38,380 --> 00:03:45,420
+profiter. Alors l'Iramat, premier de nos laboratoires par ordre de présentation, là simplement bien
+
+30
+00:03:45,420 --> 00:03:54,460
+sûr, institut de recherche sur les archéomatériaux, matériaux anciens, donc un laboratoire qui fait
+
+31
+00:03:54,460 --> 00:04:00,060
+partie de l'institut thématique, pur et disciplinaire, humanité, culture et société qui est donc
+
+32
+00:04:00,100 --> 00:04:06,940
+attaché à notre collégium UFR LLSH. Alors quelques mots rapides de présentation de ce
+
+33
+00:04:06,940 --> 00:04:14,660
+labo avant de laisser la place à notre collègue. L'institut de recherche sur les archéomatériaux
+
+34
+00:04:14,660 --> 00:04:21,340
+est une unité mixte de recherche du CNRS et de l'université d'Orléans. Donc l'Iramat est
+
+35
+00:04:21,340 --> 00:04:27,700
+constitué de trois composantes, le centre Ernest Babelon de l'université d'Orléans,
+
+36
+00:04:27,740 --> 00:04:34,460
+le laboratoire de paléométallurgie et culture de l'université technologique de Belfort-Mont-Béliard
+
+37
+00:04:34,460 --> 00:04:41,380
+et le centre de recherche sur la physique appliquée à l'archéologie de Bordeaux III.
+
+38
+00:04:41,380 --> 00:04:48,140
+Lors de sa création en 1980, le centre Ernest Babelon avait une mission de recherche
+
+39
+00:04:48,140 --> 00:04:56,580
+pluridisciplinaire appliquée à la numismatique. Depuis, les travaux du laboratoire se sont étendus
+
+40
+00:04:56,580 --> 00:05:03,220
+à d'autres matériaux anciens, notamment aux verres synthétiques et naturels, aux pigments,
+
+41
+00:05:03,220 --> 00:05:11,380
+ces colorants et aux métaux utilisés dans la construction médiévale. Pour chacun de ces
+
+42
+00:05:11,380 --> 00:05:18,060
+axes de recherche, la vocation du laboratoire est double, développer des techniques non
+
+43
+00:05:18,060 --> 00:05:26,340
+destructives de caractérisation des archéomatériaux et appliquer ces méthodes pour répondre à des
+
+44
+00:05:26,340 --> 00:05:36,700
+problématiques historiques et archéologiques. Bernard Grattus, directeur du centre, va nous
+
+45
+00:05:36,700 --> 00:05:44,740
+parler de Bernardo Perotto, verrier italien immigré d'Alta, un orléané au cœur de sa ville et de son temps.
+

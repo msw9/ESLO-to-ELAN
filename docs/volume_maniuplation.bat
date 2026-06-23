@@ -1,0 +1,1 @@
+ffmpeg -i processed/ESLO2_CINE_1178.wav -filter:a "volume=5" processed/ELSO2_CINE_1178_V5.wav

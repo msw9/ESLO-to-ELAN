@@ -1,0 +1,1 @@
+FOR %%f in (raw\*.mp4) DO ffmpeg -i "%%f" -ac 1 -ar 16000 -c:a pcm_s16le "processed\%%~nf.wav"

@@ -1,0 +1,61 @@
+start	end	text
+0	5600	Bonjour monsieur, excusez-moi de vous déranger, est-ce que vous pourriez m'indiquer comment est-ce qu'on va à la mairie d'Orléans, s'il vous plaît ?
+5600	7000	Oh là, c'est pas par là, vous êtes trompés là !
+7000	8100	Oui, on attend que c'est trompé !
+8100	12600	Oui, du tout ! Alors, vous connaissez un peu la cathedrale dernière ?
+12600	13200	Oui !
+13200	14200	Bah, c'est juste à côté !
+14200	15200	C'est le plus grand des liens, c'est ça ?
+15200	17200	Voilà, exactement, c'est juste à côté, après vous...
+17200	18200	À droite, à gauche ?
+18200	18900	À gauche !
+18900	19600	À gauche ?
+19600	21900	À gauche, et vous y verrez des petites marches !
+21900	22400	D'accord !
+22400	23000	Celle-là, la mairie !
+23000	23800	Celle-là, la mairie, d'accord !
+24800	26200	Est-ce que je peux vous dire encore des petites mythes ?
+26200	30600	En fait, on est étudiante en sciences du langage à Orléans, et on fait un portrait sonore de la ville d'Orléans.
+30600	33000	Faut répondre à 2-3 petites questions, ça prend vraiment pas beaucoup de temps.
+33000	34500	Allez, désolé, désolé, t'façon, j'ai un peu de temps !
+34500	36800	Parfait ! Par contre, c'est enregistré ?
+36800	37600	Ah bah, c'est pas grave !
+37600	40200	C'est plus... Ah mais bon, alors, vous savez, mais moi ici, tout à fait !
+40200	41000	T'en veux ?
+44000	45600	Alors, quel quartier habitez-vous ?
+45600	46500	Région de Vignes !
+46500	49200	Région de Vignes, d'accord ! Est-ce que vous aimez ce quartier, cette rue ?
+49200	50000	Pourri !
+50000	51500	Pourri ? Pourquoi ?
+51500	54900	Parce qu'ils disent que c'est un privé, mais bon, c'est une porcherie, quoi !
+54900	58300	Les gens, ils te jettent tout par la fenêtre, on va passer les détails, mais bon, bref !
+58300	59700	D'accord !
+59700	64800	Si vous deviez parler d'Orléans à des amis qui ne connaissent pas la ville, vous la décriverez aux connards ?
+64800	67000	Bien, mais bon...
+67000	69200	Bien, mais ça dépend lequel quartier, ça dépend...
+69200	71200	Il y a des monuments à voir, ça, c'est sûr, mais bon, après...
+71200	73000	D'accord !
+73000	75300	Quel est votre vieux préféré dans la ville ?
+77100	79700	Moi, ça fait 33 ans que j'habite là, à force !
+79700	81900	Si je peux partir de là, honnêtement, je sortirais d'ici !
+81900	83400	Ah, mais vous n'avez pas de vieux préférés dans Orléans ?
+83400	84400	Exactement !
+84400	85100	Très bien !
+85100	89800	Et enfin, si vous deviez prendre une photo d'Orléans, vous la décriverez où ?
+89800	91900	En France, la photo d'Orléans ?
+91900	94600	Ah, ça, c'est une question que je ne sais pas du tout !
+94600	98900	Par exemple, qui vous plait plus qu'un autre, ou un quartier, un lieu...
+98900	100300	Du tout !
+100300	102300	Est-ce que je peux vous donner votre âge et votre profession, s'il vous plaît ?
+102300	104100	23 ans, pour les agents de sécurité !
+104100	104900	D'accord, très bien !
+104900	109300	Enfin, je vais vous demander de me redire le trajet pour aller à la merine et enregistrer cette fois, s'il vous plaît !
+109300	110900	D'accord, alors...
+110900	115300	Calédrale d'Orléans, la première à gauche, parce que tu verras, il y a des escaliers...
+115300	116300	D'accord, et c'est là !
+116300	118800	Et pour le pire des cas, tout le monde n'est pas assorti !
+118800	119800	D'accord, merci beaucoup !
+119800	120300	Au revoir, merci !
+120300	120800	Bonne journée, monsieur !
+120800	122100	Au revoir, surtout, et puis merci !
+122100	122600	Au revoir !

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="eslo2_cine_1178_metadata_files/enregistrementMetadata_-Lym.xslt" type="text/xsl"?>
+<enregistrement>
+	<idmetier>ESLO2_CINE_1178</idmetier>
+	<sommaire>Cinéma : Pathé - Place d'Arc. Avis et restitution des grandes lignes du film : Twilight - Chapitre 4</sommaire>
+	<source>Bande magnétique 1178</source>
+	<spatial>France, Centre, Loiret, Orléans</spatial>
+	<tgn>7008337</tgn>
+	<point>east=1.906; north=47.907</point>
+	<creator>Laboratoire Ligérien de Linguistique</creator>
+	<publisher>Laboratoire Ligérien de Linguistique</publisher>
+	<depositor>Laboratoire Ligérien de Linguistique</depositor>
+	<researchers>
+		<researcher>Baude, Olivier</researcher>
+	</researchers>
+	<speakers>
+		<speaker>BL828</speaker>
+		<speaker>HZ912</speaker>
+	</speakers>
+	<rights>Copyright (c) 2012 Université d'Orléans/LLL</rights>
+	<created>2011-11-30</created>
+	<extent>PT0H2M9S</extent>
+</enregistrement>
