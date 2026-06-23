@@ -9,7 +9,7 @@ Ce projet met en œuvre un pipeline complet de traitement de corpus oral, de la 
 ## Corpus
 
 **ESLO — Enquêtes Sociolinguistiques à Orléans**
-Corpus de français parlé produit et hébergé par le LLL (Ortolang). Enregistrements de locuteurs orléanais dans des situations de communication variées (entretiens, repas, interactions spontanées).
+Corpus de français parlé produit et hébergé par le LLL (Ortolang). Enregistrements de locuteurs orléanais dans des situations de communication variées (entretiens, interactions spontanées).
 
 - Source : [https://eslo.huma-num.fr](https://eslo.huma-num.fr)
 
@@ -43,7 +43,7 @@ FOR %%f IN (raw\*.mp4) DO ffmpeg -i "%%f" -ac 1 -ar 16000 -c:a pcm_s16le "proces
 Transcription par le modèle Whisper (`medium`), avec horodatage mot à mot :
 
 ```batch
-FOR %%f IN (processed\*.wav) DO whisper "processed\%%~nf.wav" --language French --model medium --output_dir transcripts --output_format json
+FOR %%f IN (processed\*.wav) DO whisper "processed\%%~nf.wav" --language French --model medium --output_dir transcripts
 ```
 
 
@@ -62,4 +62,4 @@ Une correction manuelle a été appliquée sur une sélection de fichiers afin d
 
 - Whisper (OpenAI) : [https://github.com/openai/whisper](https://github.com/openai/whisper)
 - ELAN (MPI) : [https://archive.mpi.nl/tla/elan](https://archive.mpi.nl/tla/elan)
-- ESLO sur Ortolang : [https://www.ortolang.fr](https://www.ortolang.fr)
+- ESLO  : [https://eslo.huma-num.fr](https://eslo.huma-num.fr)
